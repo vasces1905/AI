@@ -1,0 +1,1 @@
+Type which dice you want to hold separated by spaces indexed from 0, blank to reroll all
